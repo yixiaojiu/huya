@@ -8,13 +8,21 @@ export async function getNextStateFileName() {
     files = await readdir(resolve(rootPath, './state'))
   } catch (error) {
     console.log(error)
-    return './state/storageState.json'
+    return './state/storageState1.json'
   }
   if (!files.length) {
-    return './state/storageState.json'
+    return './state/storageState1.json'
   }
-  const lastFile = files.pop()
-  return `./state/storageState${+lastFile![12] + 1}.json`
+  let onlyNum = files.length + 1
+  let fileName = `./state/storageState${onlyNum}.json`
+  while (true) {
+    if (!files.includes(fileName)) {
+      break
+    }
+    onlyNum++
+    fileName = `./state/storageState${onlyNum}.json`
+  }
+  return fileName
 }
 
 getNextStateFileName()
