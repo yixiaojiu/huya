@@ -1,0 +1,444 @@
+{
+  "cookies": [
+    {
+      "name": "SoundValue",
+      "value": "0.50",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1702514737,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "isInLiveRoom",
+      "value": "",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1702514737,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "udb_guiddata",
+      "value": "18eb365304ca4f3eb8635baf05682c92",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1702514725,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "lnrksgcq8ifq3plhqb9tfnrg60",
+      "domain": "l.web.huya.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "1i4tir2i3vc3vv3iai8heqga75",
+      "domain": "l.huya.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "udb_deviceid",
+      "value": "w_655329494178045952",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1705538726.354893,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "HMACCOUNT_BFESS",
+      "value": "45C5544C8F546694",
+      "domain": ".hm.baidu.com",
+      "path": "/",
+      "expires": 1705538726.916058,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "Hm_lvt_51700b6c722f5bb4cf39906a596ea41f",
+      "value": "1670978727",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1702514737,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "udb_anobiztoken",
+      "value": "AQCJw7CsXU3yx-CUqrr0_sSvgEyfyJe9AVjiAhlET00uYmhxfbVr5-IbAT5VTx7SXBRQWP25wvz_LLTFvpFSpn7gAAuyj4uWjnH3z3N7e3JK92sgpix2E92Mx8lgHR5te40ueQCMhQYYcLQP-i8zoJMtkGtJP-WH4fb4YSrbRGeL03uw7ubZPhy1KJVO69IJzs6GlxI77R_nWtaf56iokp24vvyfOBgqBHDbTpSvLJJ1hl2bo6ndnQfeddqYMmN-UzYsD4ZYIINHbnX9f2kRff9j_hsYrbbLJ4oNTUPtIBSkhBWyWBf-YPMQKnynUk673dshkhnueCBWt1tsYagKSr_r",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1671583527.329711,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "udb_anouid",
+      "value": "1465129991391",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1671583527.329737,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "udb_passdata",
+      "value": "3",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__yasmid",
+      "value": "0.5258681619691068",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__yamid_tt1",
+      "value": "0.5258681619691068",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1705538729.422959,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__yamid_new",
+      "value": "CA176CAD5A7000016562C61014C54D90",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1705538729.423087,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "udb_biztoken",
+      "value": "AQC9aCXrt7FtOuR8DydndnzBJ96ayE0bxVRrJ-UO0I57quf3uXKeuz32E6zs7McCnuERweYuKbEhHMYn1FT1FHdv6Z4bTYHFCRGlZm6dXr4J9GfgpJNUjUHUkt8iAdi8CwJDyhxQXOIfc2ao7aj1Vbzw20qD8saAAz1mdY5DLA2MARdGIBfGOytwBETJp1Cqi2IhyeCIv7oeYZ-O5PnI7JnvafIEuVvfrQV1f7cm-TwyqTx3qpS1GQr2FuTmr3awlY8Gg24QvAlETq8duxCjpMm4v9jR1uVvhsFGT8CICI7q4UjV6dIo2z9HhW27lYljxI-Yvy-9yXFCtT59XrTE5WlJ",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1672274736.85862,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "udb_cred",
+      "value": "ChAleitTlhUYMnBAK0ohP8aoCy7Slvn2ngInCp6iAf17_89m-ogJcKVh1DKYtT6qIhFNzmhR1jC9qjo63DxCfKGSInuKCzzCnosfYDkz0sG_OD5b3uW67Pzc7BBpVJEWfYU",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1686530736.858654,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "udb_origin",
+      "value": "0",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1672274736.858666,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "udb_passport",
+      "value": "hy_233005552",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1672274736.858676,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "udb_status",
+      "value": "1",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1672274736.858685,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "udb_uid",
+      "value": "1199620941607",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1672274736.858693,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "udb_version",
+      "value": "1.0",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1672274736.858702,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "username",
+      "value": "hy_233005552",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1672274736.858711,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yyuid",
+      "value": "1199620941607",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1672274736.85872,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rep_cnt",
+      "value": "5",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "udb_accdata",
+      "value": "undefined",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1673570736,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "h_unt",
+      "value": "1670978738",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": 1671583537.481972,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Hm_lpvt_51700b6c722f5bb4cf39906a596ea41f",
+      "value": "1670978738",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__yaoldyyuid",
+      "value": "1199620941607",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_yasids",
+      "value": "__rootsid%3DCA176CAF6FA000011F212EFC5B8A5290",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "huya_flash_rep_cnt",
+      "value": "5",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "huya_ua",
+      "value": "webh5&0.0.1&activity",
+      "domain": "www.huya.com",
+      "path": "/",
+      "expires": 1702514738,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "huya_web_rep_cnt",
+      "value": "14",
+      "domain": ".huya.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.huya.com",
+      "localStorage": [
+        {
+          "name": "reportArr",
+          "value": "[]"
+        },
+        {
+          "name": "udbAnonymousUid",
+          "value": "1465129991391"
+        },
+        {
+          "name": "FOREIGN_TAG",
+          "value": "0"
+        },
+        {
+          "name": "sdid",
+          "value": "0UnHUgv0/qmfD4KAKlwzhqfRXL8WxhbE81kD9ikeaLThx1p01iTf8BUezwvG72ynKWUE9rkZoHXCNpltUOtHiG5E7IdHo7A3vHiPzWIUIN0zWVkn9LtfFJw/Qo4kgKr8OZHDqNnuwg612sGyflFn1doVF2DHphf/gZhK03nu4006lKZKZb+kqcaosAvoVGz+J"
+        },
+        {
+          "name": "AB_SRE_CONFIGS",
+          "value": "{\"web_huya_no_login_data_client_mid_CA176CAD5A7000016562C61014C54D90\":{\"mpExperiment\":\"15547.23739,22810.35344\",\"mpConfig\":{\"useUriControl\":\"1\",\"webrtcAB\":\"2\"}},\"web_huya_uid_1199620941607_client_mid_CA176CAD5A7000016562C61014C54D90\":{\"mpExperiment\":\"15547.23739,22810.35344\",\"mpConfig\":{\"useUriControl\":\"1\",\"webrtcAB\":\"2\"}}}"
+        },
+        {
+          "name": "benchmark-sdid",
+          "value": "KlwzhqfRXL8WxhbE81kD9ikeaLThx1p01iTf8"
+        },
+        {
+          "name": "LIB_GEGISTRY@https://diy-front.cdn.huya.com/zt/frontpage/68/header_lib_registry.html",
+          "value": "{\"time\":1670978725,\"content\":{\"header\":{\"maxAge\":1200,\"url\":\"https://a.msstatic.com/huya/hd/h5/header/app.c54c80023de2a129c203.bundle.js\",\"beta\":{\"tag\":\"TTHD_BETA\",\"enabled\":0},\"releases\":\"c54c80023de2a129c203,15de201705ba22436168,1b462a3fb791bba2e2ee\"}}}"
+        },
+        {
+          "name": "wssdns",
+          "value": "uVBopy_EL8)<5E<xjhof}AZ2pi#YQ|pn*,vf9Efxk+o<dAZX?EWTTK>C38)f5EfxkhE<d{Z26oqmTPoT3,v<9Efzk+o<}AR"
+        },
+        {
+          "name": "TT_HEADER_SEARCH_PLACEHOLDER",
+          "value": "张大仙,集梦1995,童锦程,广州ttg九尾,KPL,狼队小胖,cf,张开朗,金铲铲之战,一起看"
+        },
+        {
+          "name": "TT_USER_GROWTH_RESULT",
+          "value": "1"
+        },
+        {
+          "name": "TT_HD_DOWNLOAD_SHOW_TIME",
+          "value": "1670978737"
+        },
+        {
+          "name": "TT_HD_YOULIAO_TIPS",
+          "value": "1670978725"
+        },
+        {
+          "name": "benchmark-fps",
+          "value": "147"
+        },
+        {
+          "name": "TT_LATEST_LOGIN_TIME",
+          "value": "1670978737"
+        },
+        {
+          "name": "TT_HD_YOULIAO_TIPS_TIMES",
+          "value": "1"
+        },
+        {
+          "name": "xyvp_cfg_hhl",
+          "value": "{\"requestTimeout\":2800,\"receiveTimeout\":1800}"
+        },
+        {
+          "name": "fp_timestamp",
+          "value": "1670978729324"
+        },
+        {
+          "name": "Hm_lvt_51700b6c722f5bb4cf39906a596ea41f",
+          "value": "1702514737659|1670978727"
+        },
+        {
+          "name": "TT_LIVE_STREAM_ORIGIN",
+          "value": "[{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"0\",\"line_ratio_pc\":\"0\",\"line_ratio_web\":\"0\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":[\"786801cbd0970098d963c1a3117623a1.livehwc3.cn\",\"786801cbd0970098d963c1a3117623a1.livehwc3.cn\"],\"line_index\":\"6\",\"line_ratio_mob\":\"100\",\"line_ratio_pc\":\"100\",\"line_ratio_web\":\"100\",\"p2p_domain_list\":[\"de3ba23b28a35bbb3bba0a8fac15ec0c.livehwc3.cn\",\"8dd02b3541e88331d0dff267d12d19c5.livehwc3.cn\"]}],\"uid\":\"1279513099289\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"0\",\"line_ratio_pc\":\"0\",\"line_ratio_web\":\"0\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":[\"cb31e2526da6f06f5ceb3048d5a98912.livehwc3.cn\",\"cb31e2526da6f06f5ceb3048d5a98912.livehwc3.cn\"],\"line_index\":\"6\",\"line_ratio_mob\":\"100\",\"line_ratio_pc\":\"100\",\"line_ratio_web\":\"100\",\"p2p_domain_list\":[\"b9be1216c87b83770c589071340789d5.livehwc3.cn\",\"38ca81eeae63b413951efef1e97f83c0.livehwc3.cn\"]}],\"uid\":\"1199524116865\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"0\",\"line_ratio_pc\":\"0\",\"line_ratio_web\":\"0\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":[\"786801cbd0970098d963c1a3117623a1.livehwc3.cn\",\"786801cbd0970098d963c1a3117623a1.livehwc3.cn\"],\"line_index\":\"6\",\"line_ratio_mob\":\"100\",\"line_ratio_pc\":\"100\",\"line_ratio_web\":\"100\",\"p2p_domain_list\":[\"8dd02b3541e88331d0dff267d12d19c5.livehwc3.cn\",\"8dd02b3541e88331d0dff267d12d19c5.livehwc3.cn\"]}],\"uid\":\"2274915521\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"1\",\"line_ratio_mob\":\"0\",\"line_ratio_pc\":\"0\",\"line_ratio_web\":\"0\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"100\",\"line_ratio_pc\":\"100\",\"line_ratio_web\":\"100\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"6\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null}],\"uid\":\"2231324437\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"40\",\"line_ratio_pc\":\"40\",\"line_ratio_web\":\"40\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"6\",\"line_ratio_mob\":\"60\",\"line_ratio_pc\":\"60\",\"line_ratio_web\":\"60\",\"p2p_domain_list\":null}],\"uid\":\"1500728851\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"1\",\"line_ratio_mob\":\"50\",\"line_ratio_pc\":\"50\",\"line_ratio_web\":\"50\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"50\",\"line_ratio_pc\":\"50\",\"line_ratio_web\":\"50\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"6\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null}],\"uid\":\"957063158\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"1\",\"line_ratio_mob\":\"50\",\"line_ratio_pc\":\"50\",\"line_ratio_web\":\"50\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"50\",\"line_ratio_pc\":\"50\",\"line_ratio_web\":\"50\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"6\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null}],\"uid\":\"532418163\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"1\",\"line_ratio_mob\":\"100\",\"line_ratio_pc\":\"100\",\"line_ratio_web\":\"100\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"0\",\"line_ratio_pc\":\"0\",\"line_ratio_web\":\"0\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"6\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null}],\"uid\":\"359571478\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"1\",\"line_ratio_mob\":\"0\",\"line_ratio_pc\":\"0\",\"line_ratio_web\":\"0\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"100\",\"line_ratio_pc\":\"100\",\"line_ratio_web\":\"100\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"6\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null}],\"uid\":\"105052100\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"0\",\"line_ratio_pc\":\"0\",\"line_ratio_web\":\"0\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":[\"9c89d538940fb343abf8856f8715a3eb.livehwc3.cn\",\"9c89d538940fb343abf8856f8715a3eb.livehwc3.cn\"],\"line_index\":\"6\",\"line_ratio_mob\":\"100\",\"line_ratio_pc\":\"100\",\"line_ratio_web\":\"100\",\"p2p_domain_list\":[\"c71cd33ad65cefbb9dfb009596e0fff6.livehwc3.cn\",\"de3ba23b28a35bbb3bba0a8fac15ec0c.livehwc3.cn\"]}],\"uid\":\"13722395\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"1\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"0\",\"line_ratio_pc\":\"0\",\"line_ratio_web\":\"0\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"6\",\"line_ratio_mob\":\"100\",\"line_ratio_pc\":\"100\",\"line_ratio_web\":\"100\",\"p2p_domain_list\":null}],\"uid\":\"1199617178982\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"0\",\"line_ratio_pc\":\"0\",\"line_ratio_web\":\"0\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":[\"cb31e2526da6f06f5ceb3048d5a98912.livehwc3.cn\",\"cb31e2526da6f06f5ceb3048d5a98912.livehwc3.cn\"],\"line_index\":\"6\",\"line_ratio_mob\":\"100\",\"line_ratio_pc\":\"100\",\"line_ratio_web\":\"100\",\"p2p_domain_list\":[\"de3ba23b28a35bbb3bba0a8fac15ec0c.livehwc3.cn\",\"b9be1216c87b83770c589071340789d5.livehwc3.cn\"]}],\"uid\":\"1099531840963\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"0\",\"line_ratio_pc\":\"0\",\"line_ratio_web\":\"0\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":[\"cb31e2526da6f06f5ceb3048d5a98912.livehwc3.cn\",\"cb31e2526da6f06f5ceb3048d5a98912.livehwc3.cn\"],\"line_index\":\"6\",\"line_ratio_mob\":\"100\",\"line_ratio_pc\":\"100\",\"line_ratio_web\":\"100\",\"p2p_domain_list\":[\"c71cd33ad65cefbb9dfb009596e0fff6.livehwc3.cn\",\"38ca81eeae63b413951efef1e97f83c0.livehwc3.cn\"]}],\"uid\":\"2367547387\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"0\",\"line_ratio_pc\":\"0\",\"line_ratio_web\":\"0\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"6\",\"line_ratio_mob\":\"100\",\"line_ratio_pc\":\"100\",\"line_ratio_web\":\"100\",\"p2p_domain_list\":null}],\"uid\":\"2364819835\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"0\",\"line_ratio_pc\":\"0\",\"line_ratio_web\":\"0\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":[\"80ec27bff7f9ae80b961481da488e302.livehwc3.cn\",\"80ec27bff7f9ae80b961481da488e302.livehwc3.cn\"],\"line_index\":\"6\",\"line_ratio_mob\":\"100\",\"line_ratio_pc\":\"100\",\"line_ratio_web\":\"100\",\"p2p_domain_list\":[\"8dd02b3541e88331d0dff267d12d19c5.livehwc3.cn\",\"38ca81eeae63b413951efef1e97f83c0.livehwc3.cn\"]}],\"uid\":\"2281642896\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"0\",\"line_ratio_pc\":\"0\",\"line_ratio_web\":\"0\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"6\",\"line_ratio_mob\":\"100\",\"line_ratio_pc\":\"100\",\"line_ratio_web\":\"100\",\"p2p_domain_list\":null}],\"uid\":\"2230104760\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"1\",\"line_ratio_mob\":\"50\",\"line_ratio_pc\":\"50\",\"line_ratio_web\":\"50\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"50\",\"line_ratio_pc\":\"50\",\"line_ratio_web\":\"50\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"6\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null}],\"uid\":\"1674061413\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"0\",\"line_ratio_pc\":\"0\",\"line_ratio_web\":\"0\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":[\"9c89d538940fb343abf8856f8715a3eb.livehwc3.cn\",\"9c89d538940fb343abf8856f8715a3eb.livehwc3.cn\"],\"line_index\":\"6\",\"line_ratio_mob\":\"100\",\"line_ratio_pc\":\"100\",\"line_ratio_web\":\"100\",\"p2p_domain_list\":[\"8dd02b3541e88331d0dff267d12d19c5.livehwc3.cn\",\"c71cd33ad65cefbb9dfb009596e0fff6.livehwc3.cn\"]}],\"uid\":\"1088641870\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"1\",\"line_ratio_mob\":\"100\",\"line_ratio_pc\":\"100\",\"line_ratio_web\":\"100\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"0\",\"line_ratio_pc\":\"0\",\"line_ratio_web\":\"0\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"6\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null}],\"uid\":\"997432433\"}},{\"expire\":1670985927,\"data\":{\"domain_list\":[{\"flv_domain_list\":null,\"line_index\":\"1\",\"line_ratio_mob\":\"10\",\"line_ratio_pc\":\"10\",\"line_ratio_web\":\"10\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"3\",\"line_ratio_mob\":\"15\",\"line_ratio_pc\":\"15\",\"line_ratio_web\":\"15\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"5\",\"line_ratio_mob\":\"-1\",\"line_ratio_pc\":\"-1\",\"line_ratio_web\":\"-1\",\"p2p_domain_list\":null},{\"flv_domain_list\":null,\"line_index\":\"6\",\"line_ratio_mob\":\"75\",\"line_ratio_pc\":\"75\",\"line_ratio_web\":\"75\",\"p2p_domain_list\":null}],\"uid\":\"518969542\"}}]"
+        },
+        {
+          "name": "benchmark-cpuScore",
+          "value": "2849662"
+        },
+        {
+          "name": "TT_AB_TEST_CONF",
+          "value": "{\"mpExperiment\":\"15547.23739,22810.35344\",\"mpConfig\":{\"useUriControl\":\"1\",\"webrtcAB\":\"2\"}}"
+        },
+        {
+          "name": "TT_LIVE_STREAM_FH",
+          "value": "[{\"expire\":1670980526,\"data\":\"13722395\"},{\"expire\":1670980526,\"data\":\"105052100\"},{\"expire\":1670980526,\"data\":\"2274915521\"},{\"expire\":1670980526,\"data\":\"1279513099289\"},{\"expire\":1670980526,\"data\":\"359571478\"},{\"expire\":1670980526,\"data\":\"2231324437\"},{\"expire\":1670980526,\"data\":\"957063158\"},{\"expire\":1670980526,\"data\":\"1199524116865\"},{\"expire\":1670980526,\"data\":\"1500728851\"},{\"expire\":1670980526,\"data\":\"532418163\"},{\"expire\":1670980526,\"data\":\"2281642896\"},{\"expire\":1670980526,\"data\":\"997432433\"},{\"expire\":1670980526,\"data\":\"1088641870\"},{\"expire\":1670980526,\"data\":\"2230104760\"},{\"expire\":1670980526,\"data\":1674061413},{\"expire\":1670980526,\"data\":\"1099531840963\"},{\"expire\":1670980526,\"data\":\"2364819835\"},{\"expire\":1670980526,\"data\":\"1199617178982\"},{\"expire\":1670980526,\"data\":\"2367547387\"},{\"expire\":1670980526,\"data\":518969542}]"
+        },
+        {
+          "name": "LIB_GEGISTRY@https://diy-front.cdn.huya.com/zt/frontpage/d5/lib_registry.html",
+          "value": "{\"time\":1670978726,\"content\":{\"TT\":{\"maxAge\":86400,\"url\":\"https://a.msstatic.com/huya/common/TT.js\"},\"header\":{\"maxAge\":1800,\"url\":\"https://a.msstatic.com/huya/common/header.js\"},\"abtest\":{\"maxAge\":86400,\"url\":\"https://static-jw.msstatic.com/rp/v2/abtesthash3557f6af7d8efe525f6d.js\"},\"udbDeviceFinger\":{\"maxAge\":1800,\"url\":\"https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js\"},\"ya\":{\"maxAge\":1800,\"url\":\"https://static-jw.msstatic.com/rp/v2/ya-huya.finall.min.js?v=666\"},\"liveShare\":{\"maxAge\":86400,\"url\":\"https://a.msstatic.com/huya/hd/h5/static-source/live-share/0.1.2/main.production.min.js\"}}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://aq.huya.com",
+      "localStorage": [
+        {
+          "name": "loginMode",
+          "value": "changeQuickLogin"
+        },
+        {
+          "name": "hyVisit",
+          "value": "1"
+        },
+        {
+          "name": "sdid",
+          "value": "0UnHUgv0/qmfD4KAKlwzhqbeId2APiEoh4wBRCHKjjM16wM8vzUrMHkilZhP12fe1I+DC57XaxB92UlmoBjqdQpxC8wFXfs+OljF2TUDxvHvWVkn9LtfFJw/Qo4kgKr8OZHDqNnuwg612sGyflFn1doaRzTCjFxQyrfNieSfCduKUkb+rgKdTy6CuOeN5C8kh"
+        },
+        {
+          "name": "fp_timestamp",
+          "value": "1670978730301"
+        }
+      ]
+    }
+  ]
+}

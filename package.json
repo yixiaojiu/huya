@@ -4,21 +4,24 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.46.1",
-    "@typescript-eslint/parser": "^5.46.1",
+    "@antfu/eslint-config": "^0.34.0",
+    "@types/node": "^18.11.14",
+    "@types/qrcode-terminal": "^0.12.0",
     "eslint": "^8.29.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.8.1",
-    "typescript": "^4.9.4"
+    "typescript": "^4.9.4",
+    "vitest": "^0.25.8"
   },
   "dependencies": {
-    "playwright": "^1.28.1"
+    "axios": "^1.2.1",
+    "jimp": "^0.16.2",
+    "jsqr": "^1.4.0",
+    "playwright": "^1.28.1",
+    "qrcode-terminal": "^0.12.0"
   }
 }
